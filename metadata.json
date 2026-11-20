@@ -1,0 +1,8 @@
+{
+  "name": "Sinapsis",
+  "description": "Juego de entrenamiento cerebral adaptativo con desafíos progresivos de lógica, memoria y atención rápida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
